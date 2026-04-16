@@ -12,7 +12,7 @@ provider "aws" {
 }
 
 resource "aws_secretsmanager_secret" "meu_cofre_seguro" {
-  name                    = "senha-banco-de-dados-v3"
+  name                    = "senha-banco-de-dados-v4"
   description             = "Cofre criado via Pipeline CI/CD automatica"
   recovery_window_in_days = 0
 }
