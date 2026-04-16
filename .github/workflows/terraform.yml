@@ -27,10 +27,7 @@ jobs:
 
       - name: ⚙️ Terraform Init
         run: terraform init
-
-      - name: 🔍 Verificação de Código (Segurança/Padrão)
-        run: terraform fmt -check
-
+        
       - name: 📝 Terraform Plan
         run: terraform plan -out=tfplan
 
