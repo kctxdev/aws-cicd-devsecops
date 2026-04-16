@@ -20,6 +20,7 @@ Padronização: A pipeline só termina se o código estiver organizado e seguind
 Durante o desenvolvimento, precisei resolver desafios reais de conflito de recursos e sincronização de regiões, habilidades fundamentais para quem atua com Cloud e DevOps hoje.
 
 📸 Evidências do Sucesso
-(Aqui você cola o print daquela tela cheia de "checks" verdes do GitHub)
+<img width="1197" height="776" alt="Captura de tela 2026-04-16 171946" src="https://github.com/user-attachments/assets/f6ba445f-d061-448e-866f-ef0c82332d08" />
+
 
 <img width="1221" height="213" alt="image" src="https://github.com/user-attachments/assets/c31410d3-1d3d-48b3-be25-d9e5266b2d0c" />
