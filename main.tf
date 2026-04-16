@@ -15,9 +15,9 @@ provider "aws" {
 resource "aws_secretsmanager_secret" "meu_cofre_seguro" {
   name        = "senha-banco-de-dados-producao"
   description = "Cofre criado via Pipeline CI/CD automática"
-  
+
   # Isso evita que o segredo fique 'pendurado' por 30 dias se deletarmos
-  recovery_window_in_days = 0 
+  recovery_window_in_days = 0
 }
 
 # 2. Guardando uma senha (exemplo) dentro do cofre
